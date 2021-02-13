@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/mybatis-dsc-generator.iml" filepath="$PROJECT_DIR$/mybatis-dsc-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/auto-code-generator.iml" filepath="$PROJECT_DIR$/auto-code-generator.iml" />
     </modules>
   </component>
 </project>
