@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca4fdf7e-db35-481a-beab-9992ca799229" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../auto-test/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../auto-test/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../refactor/src/main/java/com/szzj/refactor/bo/ChildrenPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../refactor/src/main/java/com/szzj/refactor/bo/ChildrenPrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../refactor/src/main/java/com/szzj/refactor/bo/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../refactor/src/main/java/com/szzj/refactor/bo/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../refactor/src/main/java/com/szzj/refactor/bo/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/../refactor/src/main/java/com/szzj/refactor/bo/Movie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../refactor/src/main/java/com/szzj/refactor/bo/NewReleasePrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../refactor/src/main/java/com/szzj/refactor/bo/NewReleasePrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../refactor/src/main/java/com/szzj/refactor/bo/RegularPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../refactor/src/main/java/com/szzj/refactor/bo/RegularPrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../refactor/src/main/java/com/szzj/refactor/bo/Rental.java" beforeDir="false" afterPath="$PROJECT_DIR$/../refactor/src/main/java/com/szzj/refactor/bo/Rental.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../refactor/src/main/java/com/szzj/refactor/interfaceBo/Price.java" beforeDir="false" afterPath="$PROJECT_DIR$/../refactor/src/main/java/com/szzj/refactor/interfaceBo/Price.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../refactor/src/test/java/com/szzj/refactor/RefactorApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/../refactor/src/test/java/com/szzj/refactor/RefactorApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/db/DDL/es-config.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/db/DDL/es-config.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/db/DDL/es-medical_institution-mapping.json" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/db/DDL/es-medical_institution-mapping.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/db/DDL/social-supervisiont-table.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/db/DDL/social-supervisiont-table.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/SpringBootStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/SpringBootStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/aspect/UserDataAccessControllerAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/aspect/UserDataAccessControllerAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/cache/RoleDataGrantCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/cache/RoleDataGrantCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/common/RiskCategoryEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/common/RiskCategoryEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/common/RiskLevelEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/common/RiskLevelEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/common/ShopResourceEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/common/ShopResourceEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/configuration/WebConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/configuration/WebConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/controller/InformationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/controller/InformationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/controller/RiskClueApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/controller/RiskClueApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/controller/RiskClueController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/controller/RiskClueController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/dto/RiskDisposalTrackingRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/dto/RiskDisposalTrackingRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/dto/RiskHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/dto/RiskHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/dto/RiskInfoRes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/dto/RiskInfoRes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/dto/SelectRiskClueDetailRes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/dto/SelectRiskClueDetailRes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/dto/SuperviseObjectInfoRes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/dto/SuperviseObjectInfoRes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/dto/search/MedicalInstitutionIdx.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/dto/search/MedicalInstitutionIdx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/dto/search/MedicalInstitutionPageReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/dto/search/MedicalInstitutionPageReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/entity/LicenceInfoEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/entity/LicenceInfoEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/entity/RiskClueHandleRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/entity/RiskClueHandleRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/entity/RiskClueInfoEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/entity/RiskClueInfoEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/entity/SpiderHospitalEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/entity/SpiderHospitalEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/entity/SuperviseObjectInfoEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/entity/SuperviseObjectInfoEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/exception/SystemExceptionEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/exception/SystemExceptionEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/interceptor/LoginInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/interceptor/LoginInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/mapper/RiskClueHandleRecordMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/mapper/RiskClueHandleRecordMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/mapper/RiskClueInfoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/mapper/RiskClueInfoMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/mapper/SpiderHospitalMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/mapper/SpiderHospitalMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/mapper/SubjectRelateRecordMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/mapper/SubjectRelateRecordMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/mapper/SuperviseObjectInfoMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/mapper/SuperviseObjectInfoMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/mapper/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/repository/RiskClueInfoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/repository/RiskClueInfoRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/req/StatisticsReq.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/req/StatisticsReq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/res/page/PagePO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/res/page/PagePO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/search/MedicalInstitutionRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/search/MedicalInstitutionRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/service/LicenseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/service/LicenseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/service/RiskClueInfoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/service/RiskClueInfoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/service/impl/InstitutionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/service/impl/InstitutionServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/service/impl/LicenseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/service/impl/LicenseServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/service/impl/RiskClueInfoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/service/impl/RiskClueInfoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/service/impl/UserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/spt/ShareInterfaceClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/spt/ShareInterfaceClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/task/LongTaTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/task/LongTaTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/util/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/util/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/util/DateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/util/DateUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/util/LatitudeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/java/com/dtzhejiang/wjw/social/util/LatitudeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/resources/application-pro.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/resources/application-pro.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/resources/application-test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/resources/application-test.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/resources/mybatis/RiskClueHandleRecordMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/resources/mybatis/RiskClueHandleRecordMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/resources/mybatis/RiskClueInfoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/resources/mybatis/RiskClueInfoMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/resources/mybatis/SpiderHospitalMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/resources/mybatis/SpiderHospitalMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/resources/mybatis/SubjectRelateRecordMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/resources/mybatis/SubjectRelateRecordMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/resources/mybatis/SuperviseObjectInfoMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/main/resources/mybatis/SuperviseObjectInfoMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/main/resources/mybatis/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/test/java/com/dtzhejiang/wjw/social/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/test/java/com/dtzhejiang/wjw/social/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/test/java/com/dtzhejiang/wjw/social/task/HashWriterTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/test/java/com/dtzhejiang/wjw/social/task/HashWriterTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/test/java/com/dtzhejiang/wjw/social/task/MatchTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/test/java/com/dtzhejiang/wjw/social/task/MatchTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/test/java/com/dtzhejiang/wjw/social/task/ShopMerger.java" beforeDir="false" afterPath="$PROJECT_DIR$/../social-supervision/src/test/java/com/dtzhejiang/wjw/social/task/ShopMerger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/test/resources/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/test/resources/application-pro.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/test/resources/application-test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/test/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../social-supervision/src/test/resources/log4j2.xml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-923220721">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="FTL" value="1" />
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="11" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/flying/cattle/mdg/MyGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="55" column="56" selection-start-line="55" selection-start-column="56" selection-end-line="55" selection-end-column="56" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/freemarker/ftl/controller.ftl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/flying/cattle/mdg/MyGenerator.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/soft/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\soft\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mybatis-dsc-generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-dsc-generator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-dsc-generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-dsc-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-dsc-generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-dsc-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-dsc-generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-dsc-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-dsc-generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-dsc-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mdg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-dsc-generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-dsc-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-dsc-generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-dsc-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="ftl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-dsc-generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-dsc-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-dsc-generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-dsc-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatis-dsc-generator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatis-dsc-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mdg" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613148996700" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalDependencies" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="MyGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.flying.cattle.mdg.MyGenerator" />
+      <module name="mybatis-dsc-generator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.flying.cattle.mdg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca4fdf7e-db35-481a-beab-9992ca799229" name="Default Changelist" comment="" />
+      <created>1613139539378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613139539378</updated>
+      <workItem from="1613139542599" duration="2569000" />
+      <workItem from="1613150409131" duration="254000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2823000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32890856" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="bottom" id="Problems" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="MyBatis Log" order="13" />
+      <window_info anchor="bottom" id="Tail" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Word Book" order="5" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="RestServices" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/gitee/flying/cattle/mdg/util/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-623">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/flying/cattle/mdg/MyGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="55" column="56" selection-start-line="55" selection-start-column="56" selection-end-line="55" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/freemarker/ftl/controller.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="41" column="26" lean-forward="true" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
